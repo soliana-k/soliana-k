@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soliana-k AKA Kalkidan Kassahun
-- 👀 I’m interested in tech stuff
+- 👀 I’m interested in tech stuff, Mobile Dev and success
 - 🌱 I’m currently learning ML/AI
 - 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me - use my email kalukassahun29@gmail.com
