@@ -21,6 +21,10 @@ I am a technical specialist focused on the intersection of **Quantitative Financ
 *   **[African Climate Trend Analysis](https://github.com/soliana-k/climate-challenge-week0)** - Uncovering seasonal anomalies for policy narratives.
 *   **[Superstore-End-to-End-EDA](https://github.com/soliana-k/Superstore-End-to-End-EDA)** - A comprehensive look at retail data lifecycles.
 
+### 📊 Coding Activity & Stats
+![Kalkidan's Stats](https://github-readme-stats.vercel.app/api?username=soliana-k&show_icons=true&theme=flag-india&bg_color=1c1c1c&title_color=d4af37&text_color=e0e0e0&icon_color=d4af37)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliana-k&layout=compact&theme=flag-india&bg_color=1c1c1c&title_color=d4af37&text_color=e0e0e0)
+
 ### 📫 Connect with Me
 *   **Email:** [kalukassahun29@gmail.com](mailto:kalukassahun29@gmail.com).
 *   **Location:** Addis Ababa, Ethiopia.
